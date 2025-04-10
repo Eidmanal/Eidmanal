@@ -1,7 +1,9 @@
 My name is Eidmanal Shomo.
 My area of interest is networking and game development.
-I'm currently learning C++ and SQL.
-I'm quite proficient in Java and I'm familiar with HTML, CSS and JavaScript.
+I'm quite proficient in Java and I'm familiar with:
+- HTML
+- CSS (including familiar frameworks like bootstrap and w3 libraries)
+- JavaScript (including node.js, jquery, AJAX and chart.js)
 You can reach me using eid.manal.shomo@gmail.com.
 
 <!---
