@@ -1,6 +1,8 @@
 My name is Eidmanal Shomo.
-My area of interest is networking and game development.
+My area of interest is networking and game development. I have been programming for almost a decade now.
 I'm quite proficient in Java and I'm familiar with:
+- C++
+- SQL and SQLite
 - HTML
 - CSS (including familiar frameworks like bootstrap and w3 libraries)
 - JavaScript (including node.js, jquery, AJAX and chart.js)
