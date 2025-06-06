@@ -1,5 +1,5 @@
 Hi, I'm Eidmanal Shomo.
-I'm passionate about cybersecurity, networking and game development, with nearly a decade of programming experience.
+I'm passionate about data analysis, cybersecurity, networking and game development, with nearly a decade of programming experience.
 Over the years, I've become proficient in several languages and technologies, including:
 
 - Java (Swing and AWT)
