@@ -5,8 +5,9 @@ Over the years, I've become proficient in several languages and technologies, in
 - Java (Swing and AWT)
 - C++ and C
 - SQL and SQLite
-- HTML, CSS (with frameworks like Bootstrap and W3.CSS)
+- HTML, CSS (including frameworks like Bootstrap and W3.CSS)
 - JavaScript (including Node.js, jQuery, AJAX, and Chart.js)
+- React Native
 
 I take a hands-on approach to my projects, often designing my own icons, logos, and visual assets to maintain full creative control and cohesion.
 Feel free to reach out to me at eid.manal.shomo@gmail.com
